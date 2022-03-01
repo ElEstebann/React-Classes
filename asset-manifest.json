@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Classes/static/css/main.ed7a77e7.css",
-    "main.js": "/React-Classes/static/js/main.76324746.js",
-    "static/js/512.64d8fcee.chunk.js": "/React-Classes/static/js/512.64d8fcee.chunk.js",
+    "main.css": "/React-Classes/static/css/main.2a9bec23.css",
+    "main.js": "/React-Classes/static/js/main.67a997da.js",
+    "static/js/787.046847d7.chunk.js": "/React-Classes/static/js/787.046847d7.chunk.js",
     "static/media/logo.svg": "/React-Classes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-Classes/index.html",
-    "main.ed7a77e7.css.map": "/React-Classes/static/css/main.ed7a77e7.css.map",
-    "main.76324746.js.map": "/React-Classes/static/js/main.76324746.js.map",
-    "512.64d8fcee.chunk.js.map": "/React-Classes/static/js/512.64d8fcee.chunk.js.map"
+    "main.2a9bec23.css.map": "/React-Classes/static/css/main.2a9bec23.css.map",
+    "main.67a997da.js.map": "/React-Classes/static/js/main.67a997da.js.map",
+    "787.046847d7.chunk.js.map": "/React-Classes/static/js/787.046847d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed7a77e7.css",
-    "static/js/main.76324746.js"
+    "static/css/main.2a9bec23.css",
+    "static/js/main.67a997da.js"
   ]
 }
